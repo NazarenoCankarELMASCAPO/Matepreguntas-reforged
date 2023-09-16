@@ -6,7 +6,7 @@ winSound.src = "audio/win.mp3";
 let loseSound = new Audio();
 loseSound.src = "audio/lose.mp3";
 
-if(!localStorage["spins"] || !localStorage["minScore"] || !localStorage["time"] || !localStorage["score"]) return window.location.replace("/Matepreguntas-reforged")
+if(!localStorage["spins"] || !localStorage["minScore"] || !localStorage["time"] || !localStorage["score"]) window.location.replace("/Matepreguntas-reforged")
 
 parseInt(localStorage["score"]) > parseInt(localStorage["minScore"])
   ? (document.getElementById("img").src = "./img/win.jpg")

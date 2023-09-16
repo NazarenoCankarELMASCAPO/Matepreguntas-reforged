@@ -1,4 +1,4 @@
-if(!localStorage["spins"] || !localStorage["minScore"] || !localStorage["time"] || !localStorage["score"]) return window.location.replace("/Matepreguntas-reforged")
+if(!localStorage["spins"] || !localStorage["minScore"] || !localStorage["time"] || !localStorage["score"]) window.location.replace("/Matepreguntas-reforged")
 
 const params = new URLSearchParams(window.location.search);
 let optionsId = [];
