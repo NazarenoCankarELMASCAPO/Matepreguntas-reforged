@@ -1,3 +1,5 @@
+if(!localStorage["spins"] || !localStorage["minScore"] || !localStorage["time"] || !localStorage["score"]) return window.location.replace("/Matepreguntas-reforged")
+
 class OptionElement {
   constructor(content, i) {
     this.content = content;

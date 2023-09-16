@@ -3,7 +3,6 @@ let minScoreInput = document.getElementById("minScore");
 let timeInput = document.getElementById("time");
 
 localStorage["score"] = 0;
-localStorage["bonus"] = 0;
 
 spinsInput.addEventListener("change", ev => {
   if(ev.target.value <= 0) ev.target.value = 1
