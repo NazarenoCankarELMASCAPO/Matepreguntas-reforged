@@ -1,0 +1,759 @@
+{
+  "multiplicacion": [
+    {
+      "question": "\u00bfCual es el resultado de: 3 \u00b7 3?",
+      "options": [
+        {
+          "content": "9",
+          "isCorrect": true
+        },
+        {
+          "content": "6",
+          "isCorrect": false
+        },
+        {
+          "content": "3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+     "question": "\u00bfCual es el resultado de: 10 \u00b7 30?",
+     "options": [
+        {
+         "content": "310",
+         "isCorrect":false
+        },
+        {
+         "content": "300",
+         "isCorrect":true
+        },
+        {
+          "content": "130",
+          "isCorrect":false
+        }
+     ]
+    }, 
+    {
+      "question":"\u00bfCual es el resultado de: 13 \u00b7 3?",
+      "options":[
+        {
+          "content": "33",
+          "isCorrect":false
+        },
+        {
+          "content": "13",
+          "isCorrect": false
+        },
+        {
+          "content": "39",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question":"\u00bfCual es el resultado de: 70 \u00b7 3?",
+      "options":[
+        {
+          "content": "140",
+          "isCorrect": false
+        },
+        {
+          "content": "210",
+          "isCorrect": true
+        },
+        {
+          "content": "280",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question":"\u00bfCual es el nombre dado al resultado de una multiplicaion?",
+      "options":[
+        {
+          "content": "producto",
+          "isCorrect": true
+        },
+        {
+          "content": "cociente",
+          "isCorrect": false
+        },
+        {
+          "content": "multiplo",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question":"\u00bfCual es el resultado de: 1390702 \u00b7 1?",
+      "options":[
+        {
+          "content": "0",
+          "isCorrect": false
+        },
+        {
+          "content": "1390702",
+          "isCorrect": true
+        },
+        {
+          "content": "1290702",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question":"\u00bfCuanto es 7 multiplicado por 4?",
+      "options":[
+        {
+          "content": "20",
+          "isCorrect": false
+        },
+        {
+          "content": "28",
+          "isCorrect": true
+        },
+        {
+          "content": "14",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question":"\u00bfCuanto es 24 multiplicado 5?",
+      "options":[
+        {
+          "content": "120",
+          "isCorrect": true
+        },
+        {
+          "content": "240",
+          "isCorrect": false
+        },
+        {
+          "content": "150",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question":"\u00bfCuanto es 100 multiplicado 14?",
+      "options":[
+        {
+          "content": "430",
+          "isCorrect": false
+        },
+        {
+          "content": "140",
+          "isCorrect": false
+        },
+        {
+          "content": "1400",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question":"\u00bfCuanto es 600 multiplicado 0?",
+      "options":[
+        {
+          "content": "0",
+          "isCorrect": true
+        },
+        {
+          "content": "1600",
+          "isCorrect": false
+        },
+        {
+          "content": "6000",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "division": [
+    {
+      "question": "\u00bfCual es el resultado de: 30 : 3?",
+      "options": [
+        {
+          "content": "25",
+          "isCorrect": false
+        },
+        {
+          "content": "15",
+          "isCorrect": false
+        },
+        {
+          "content": "10",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question":"\u00bfCual es el resultado de 500 : 5?",
+      "options":[
+        {
+          "content": "100",
+          "isCorrect": true
+        },
+        {
+          "content": "87",
+          "isCorrect": false
+        },
+        {
+          "content": "50",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question":"\u00bfCual es el resultado de 66 : 6?",
+      "options":[
+        {
+          "content": "60",
+          "isCorrect": false
+        },
+        {
+          "content": "11",
+          "isCorrect": true
+        },
+        {
+          "content": "67",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de dividir 36 por 6?",
+      "options": [
+        {
+          "content": "5",
+          "isCorrect": false
+        },
+        {
+          "content": "6",
+          "isCorrect": false
+        },
+        {
+          "content": "12",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCuanto es 20 dividido por 4?",
+      "options": [
+        {
+          "content": "5",
+          "isCorrect": true
+        },
+        {
+          "content": "4",
+          "isCorrect": false
+        },
+        {
+          "content": "6",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCuanto es 45 dividido por 9?",
+      "options": [
+        {
+          "content": "4",
+          "isCorrect": false
+        },
+        {
+          "content": "5",
+          "isCorrect": true
+        },
+        {
+          "content": "6",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCuanto es 72 dividido por 8?",
+      "options": [
+        {
+          "content": "6",
+          "isCorrect": false
+        },
+        {
+          "content": "7",
+          "isCorrect": false
+        },
+        {
+          "content": "9",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es resultado de la division?",
+      "options": [
+        {
+          "content": "producto",
+          "isCorrect": false
+        },
+        {
+          "content": "dividendo",
+          "isCorrect": false
+        },
+        {
+          "content": "cociente",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCuanto es el resultado de 15 : 15?",
+      "options": [
+        {
+          "content": "1",
+          "isCorrect": true
+        },
+        {
+          "content": "15",
+          "isCorrect": false 
+        },
+        {
+          "content": "30",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de 120 : 6?",
+      "options": [
+        {
+          "content": "15",
+          "isCorrect": false
+        },
+        {
+          "content": "18",
+          "isCorrect": false
+        },
+        {
+          "content": "20",
+          "isCorrect": true
+        }
+      ]
+    }
+  ],
+  "radicacion": [
+    {
+      "question": "\u00bfCual es la raiz cuadrada de 25?",
+      "options": [
+        {
+          "content": "5",
+          "isCorrect": true
+        },
+        {
+          "content": "12.5",
+          "isCorrect": false
+        },
+        {
+          "content": "15",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfQue pasa si el radicando de una raiz tiene un exponente?",
+      "options": [
+        {
+          "content": "se suma el exponente y el indice",
+          "isCorrect": false
+        },
+        {
+          "content": "se restan el exponente y el indice",
+          "isCorrect": false
+        },
+        {
+          "content": "se dividen el exponente y el indice",
+          "isCorrect": true
+        },
+        {
+          "content": "se multiplican el exponenete y el indice",
+          "isCorrect": false
+        },
+        {
+          "content": "nada",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz quinta de 32?",
+      "options": [
+        {
+          "content": "4",
+          "isCorrect": false
+        },
+        {
+          "content": "5",
+          "isCorrect": false
+        },
+        {
+          "content": "2",
+          "isCorrect": true
+        },
+        {
+          "content": "no es posible",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz cubica de 8?",
+      "options": [
+        {
+          "content": "2",
+          "isCorrect": true
+        },
+        {
+          "content": "34",
+          "isCorrect": false
+        },
+        {
+          "content": "4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz cuarta de 16?",
+      "options": [
+        {
+          "content": "7",
+          "isCorrect": false
+        },
+        {
+          "content": "8",
+          "isCorrect": false
+        },
+        {
+          "content": "ninguna de las anteriores",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz cubica de 27?",
+      "options": [
+        {
+          "content": "2",
+          "isCorrect": false
+        },
+        {
+          "content": "3",
+          "isCorrect": true
+        },
+        {
+          "content": "4",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "potenciacion": [
+    {
+      "question": "\u00bfCual es el resultado de: 10 ^ 3?",
+      "options": [
+        {
+          "content": "100",
+          "isCorrect": false
+        },
+        {
+          "content": "1000",
+          "isCorrect": true
+        },
+        {
+          "content": "10000",
+          "isCorrect": false
+        }
+      ]
+    },
+     {
+      "question": "La potencia es inversa a la",
+      "options": [
+        {
+          "content": "division",
+          "isCorrect": false
+        },
+        {
+          "content": "multiplicacion",
+          "isCorrect": false
+        },
+        {
+          "content": "suma",
+          "isCorrect": false
+        },
+        {
+          "content": "resta",
+          "isCorrect": false
+        },
+        {
+          "content": "radicaion",
+          "isCorrect": true
+        }
+      ]
+    },
+     {
+      "question": "\u00bfcual es el resultado de 2 ^ 5?",
+
+      "options": [
+        {
+          "content": "32",
+          "isCorrect": true
+        },
+        {
+          "content": "21",
+          "isCorrect": false
+        },
+        {
+          "content": "10",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "simela": [
+    {
+      "question": "\u00bfA cuantos metros equivale un kilometro?",
+      "options": [
+        {
+          "content": "100",
+          "isCorrect": false
+        },
+        {
+          "content": "1000",
+          "isCorrect": true
+        },
+        {
+          "content": "10000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCuantos decametros hay en un metro?",
+
+      "options": [
+        {
+          "content": "0,1",
+          "isCorrect": true
+        },
+        {
+          "content": "10",
+          "isCorrect": false
+        },
+        {
+          "content": "600",
+          "isCorrect": false
+        }
+      ]
+    },
+     {
+      "question": "\u00bfQue significa simela?",
+      "options": [
+        {
+          "content": "Sistema de marcado de la Argentina",
+          "isCorrect": false
+        },
+        {
+          "content": "servicio metrico legal argentino",
+          "isCorrect": false
+        },
+        {
+          "content": "Sistema metrico legal argentino",
+          "isCorrect": true
+        }
+      ]
+    }
+  ],
+  "geometria": [
+    {
+      "question": "\u00bfCuantas caras tiene un cubo?",
+      "options": [
+        {
+          "content": "4",
+          "isCorrect": false
+        },
+        {
+          "content": "6",
+          "isCorrect": true
+        },
+        {
+          "content": "3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfQue es un poliedro regular?",
+      "options": [
+        {
+          "content": "un cuerpo geometrico que es igual a un cubo",
+          "isCorrect": false
+        },
+        {
+          "content": "una figura geometrica con 12 lados",
+          "isCorrect": false
+        },
+        {
+          "content": "un cuerpo geometrico que todas sus caras son iguales",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfQue es un acutangulo?",
+      "options": [
+        {
+          "content": "un triangulo que tiene un angulo obtuso",
+          "isCorrect": false
+        },
+        {
+          "content": "un triangulo con un angulo recto",
+          "isCorrect": false
+        },
+        {
+          "content": "un triangulo el cual todos sus angulos son agudos",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfQue es la mediatriz?",
+      "options": [
+        {
+          "content": "es un recta perpendicular al segmento que traza su punto medio",
+          "isCorrect": true
+        },
+        {
+          "content": "es una recta invisible que determine la profundidad de un cuerpo",
+          "isCorrect": false
+        },
+        {
+          "content": "es una semirrecta que parte del vertice de un angulo y lo divide en dos partes iguales",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+
+      "question": "\u00bfQue es un angulo obtuso?",
+
+      "options": [
+        {
+          "content": "un angulo mayor a 180",
+          "isCorrect": false
+        },
+        {
+          "content": "un angulo de 90",
+          "isCorrect": false
+        },
+        {
+          "content": "un angulo mayor que 90 grados",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfQue es una circunferencia?",
+      "options": [
+        {
+          "content": "un triangulo con dos angulos de 90",
+          "isCorrect": false
+        },
+        {
+          "content": "un conjunto infinito de puntos que estan a la misma distancia de uno llamado centro",
+          "isCorrect": true
+        },
+        {
+          "content": "una figura geometrica",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfQue significa que un angulo sea complementario a otro?",
+      "options": [
+        {
+          "content": "que sumados dan 90",
+          "isCorrect": true
+        },
+        {
+          "content": "que si se restan dan 30",
+          "isCorrect": false
+        },
+        {
+          "content": "que se complementan formando un angulo completo",
+          "isCorrect": false
+        }
+      ]
+    },
+     {
+      "question": "\u00bfCuantas caras tiene un dodecaedro?",
+
+      "options": [
+        {
+          "content": "32",
+          "isCorrect": false
+        },
+        {
+          "content": "2",
+          "isCorrect": false
+        },
+        {
+          "content": "12",
+          "isCorrect": true
+        }
+      ]
+    }
+  ],
+  "calculos": [
+    {
+      "question": "\u00bfCual es el resultado del siguiente calculo: 3 + 2 \u00b7 4?",
+      "options": [
+        {
+          "content": "11",
+          "isCorrect": true
+        },
+        {
+          "content": "20",
+          "isCorrect": false
+        },
+        {
+          "content": "10",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question":"\u00bfQue calculos separan los terminos?",
+      "options":[
+        {
+          "content": "los de suma y los de resta",
+          "isCorrect": true
+        },
+        {
+          "content": "los de division y multiplicacion",
+          "isCorrect": false
+        },
+        {
+          "content": "las raices y las potencias",
+          "isCorrect": false
+        },
+        {
+          "content":"los de suma y los de multiplicacion",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

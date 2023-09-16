@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Matepreguntas - final</title>
+  <link rel="stylesheet" href="./css/final.css">
+  <link rel="icon" type="image/jpg" href="./favicon.jpg" />
+  <link rel="shortcut icon" type="image/jpg" href="./favicon.jpg" />
+  <link rel="favicon" type="image/jpg" href="./favicon.jpg" />
+  <script src="https://cdn.jsdelivr.net/npm/js-confetti@latest/dist/js-confetti.browser.js"></script>
+</head>
+<body>
+  <div class="img-container" id="imageContainer">
+    <img class="question-overlay" src="./img/question-overlay.png" alt="Overlay">
+    <div class="hidden">
+      <img src="" class="img" id="img">
+    </div>
+  </div>
+  <button class="reveal" id="reveal">Revelar</button>
+  <br>
+  <p id="score" class="score"> Acabaste la partida con:</p>
+  <script src=".js/finalHandler.js"></script>
+  <script>
+    document.getElementById("score").innerText += ` ${localStorage["score"]} puntos`
+  </script>
+</body>
+</html>

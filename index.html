@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Matepreguntas - inicio</title>
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="icon" type="image/jpg" href="./favicon.jpg" />
+    <link rel="shortcut icon" type="image/jpg" href="./favicon.jpg" />
+    <link rel="favicon" type="image/jpg" href="./favicon.jpg" />
+    <script src="./js/Entitiy.js"></script>
+  </head>
+  <body>
+    <img src="./img/background.jpg" alt="fondo" class="background" />
+    <canvas class="background-canvas" id="backgroundCanvas"></canvas>
+    <div class="title-container">
+      <h1 class="title">Matepreguntas</h1>
+    </div>
+
+    <div class="play-container">
+      <button class="play" onclick='window.location.replace("/roulette.html")'>
+        Jugar
+      </button>
+    </div>
+
+    <div class="config-container">
+      <label for="spins">Giros iniciales</label>
+      <input type="number" name="spins" id="spins" value="15" />
+
+      <label for="min-score">Puntaje minimo para ganar</label>
+      <input type="number" name="min-score" id="minScore" value="65" />
+
+      <label for="min-score">Tiempo de preguntas</label>
+      <input type="number" name="time" id="time" value="15" />
+
+      <div class="presets">
+        <button class="easy" id="easy">Fácil</button>
+        <button class="medium" id="medium">Medio</button>
+        <button class="hard" id="hard">Difícil</button>
+      </div>
+    </div>
+
+    <div class="credits-container">
+      <button class="credits">Creditos</button>
+      <div class="creditsContent">
+        <p>Codigo: Nazareno cankar</p>
+        <br />
+        <p>Preguntas: Jose dratman</p>
+        <br />
+        <p>
+          Menciones honorificas: Aaron suarez, Gonzalo williams, Bautista
+          farias, Daniel pittorino
+        </p>
+      </div>
+    </div>
+
+    <script src="./js/background.js"></script>
+    <script src="./js/setProperties.js"></script>
+  </body>
+</html>
