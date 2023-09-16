@@ -1,7 +1,7 @@
 document.getElementById("spins").innerText += ` ${localStorage["spins"]}`;
 document.getElementById("score").innerText += ` ${localStorage["score"]}`;
 
-if (parseInt(localStorage["spins"]) <= 0) window.location.replace("/final");
+if (parseInt(localStorage["spins"]) <= 0) window.location.replace("/Matepreguntas-reforged/final.html");
 
 let options = [
   "Multiplicación",
