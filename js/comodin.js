@@ -61,7 +61,7 @@ optionsId.forEach((id) => {
 
     sucess.play();
     setTimeout(
-      () => window.location.replace("/roulette.html"),
+      () => window.location.replace("/Matepreguntas-reforged/roulette.html"),
       500 + sucess.duration * 1000
     );
   });

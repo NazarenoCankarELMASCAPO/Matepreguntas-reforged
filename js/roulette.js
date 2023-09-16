@@ -15,14 +15,14 @@ let options = [
 ];
 
 let routes = [
-  "/questions.html?id=multiplicacion",
-  "/questions.html?id=division",
-  "/questions.html?id=radicacion",
-  "/questions.html?id=potenciacion",
-  "/questions.html?id=simela",
-  "/questions.html?id=geometria",
-  "/questions.html?id=calculos",
-  "/c.html",
+  "/Matepreguntas-reforged/questions.html?id=multiplicacion",
+  "/Matepreguntas-reforged/questions.html?id=division",
+  "/Matepreguntas-reforged/questions.html?id=radicacion",
+  "/Matepreguntas-reforged/questions.html?id=potenciacion",
+  "/Matepreguntas-reforged/questions.html?id=simela",
+  "/Matepreguntas-reforged/questions.html?id=geometria",
+  "/Matepreguntas-reforged/questions.html?id=calculos",
+  "/Matepreguntas-reforged/c.html",
 ];
 
 let colors = [

@@ -27,7 +27,7 @@ document.getElementById("reveal").addEventListener("click", () => {
     });
 
     setTimeout(
-      () => window.location.replace("/"),
+      () => window.location.replace("/Matepreguntas-reforged"),
       winSound.duration * 1000 + 500
     );
   } else {
@@ -38,7 +38,7 @@ document.getElementById("reveal").addEventListener("click", () => {
       emojiSize: 50,
     });
     setTimeout(
-      () => window.location.replace("/"),
+      () => window.location.replace("/Matepreguntas-reforged"),
       loseSound.duration * 1000 + 500
     );
   }

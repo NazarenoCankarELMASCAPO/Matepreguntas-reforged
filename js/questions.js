@@ -43,7 +43,7 @@ fetch("./js/data.json")
 
             sucess.play();
             setTimeout(
-              () => window.location.replace("/roulette.html"),
+              () => window.location.replace("/Matepreguntas-reforged/roulette.html"),
               500 + sucess.duration * 1000
             );
           } else {
@@ -61,7 +61,7 @@ fetch("./js/data.json")
 
             fail.play();
             setTimeout(
-              () => window.location.replace("/roulette.html"),
+              () => window.location.replace("/Matepreguntas-reforged/roulette.html"),
               500 + fail.duration * 1000
             );
           }
@@ -83,7 +83,7 @@ fetch("./js/data.json")
           localStorage["score"] = (
             parseInt(localStorage["score"]) - 5
           ).toString();
-          window.location.replace("/roulette.html");
+          window.location.replace("/Matepreguntas-reforged/roulette.html");
         }
       }, 1000);
     });
