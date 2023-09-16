@@ -6,8 +6,9 @@ if (
   !localStorage["minScore"] ||
   !localStorage["time"] ||
   !localStorage["score"]
-)
+) {
   window.location.replace("/Matepreguntas-reforged");
+}
 
 if (parseInt(localStorage["spins"]) <= 0)
   window.location.replace("/Matepreguntas-reforged/final.html");
