@@ -22,7 +22,7 @@ let routes = [
   "/Matepreguntas-reforged/questions.html?id=simela",
   "/Matepreguntas-reforged/questions.html?id=geometria",
   "/Matepreguntas-reforged/questions.html?id=calculos",
-  "/Matepreguntas-reforged/c.html",
+  "/Matepreguntas-reforged/c.html"
 ];
 
 let colors = [
