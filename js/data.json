@@ -497,7 +497,7 @@
           "isCorrect": false
         },
         {
-          "content": "Radicaion",
+          "content": "Radicacion",
           "isCorrect": true
         }
       ]
@@ -717,7 +717,7 @@
   ],
   "calculos": [
     {
-      "question": "\u00bfCual es el resultado del siguiente calculo: 3 + 2 \u00b7 4?",
+      "question": "\u00bfCual es el resultado del siguiente calculo combinado: 3 + 2 \u00b7 4?",
       "options": [
         {
           "content": "11",
