@@ -1,9 +1,16 @@
 document.getElementById("spins").innerText += ` ${localStorage["spins"]}`;
 document.getElementById("score").innerText += ` ${localStorage["score"]}`;
 
-if(!localStorage["spins"] || !localStorage["minScore"] || !localStorage["time"] || !localStorage["score"]) window.location.replace("/Matepreguntas-reforged")
+if (
+  !localStorage["spins"] ||
+  !localStorage["minScore"] ||
+  !localStorage["time"] ||
+  !localStorage["score"]
+)
+  window.location.replace("/Matepreguntas-reforged");
 
-if (parseInt(localStorage["spins"]) <= 0) window.location.replace("/Matepreguntas-reforged/final.html");
+if (parseInt(localStorage["spins"]) <= 0)
+  window.location.replace("/Matepreguntas-reforged/final.html");
 
 let options = [
   "Multiplicación",
@@ -24,7 +31,7 @@ let routes = [
   "/Matepreguntas-reforged/questions.html?id=simela",
   "/Matepreguntas-reforged/questions.html?id=geometria",
   "/Matepreguntas-reforged/questions.html?id=calculos",
-  "/Matepreguntas-reforged/c.html"
+  "/Matepreguntas-reforged/c.html",
 ];
 
 let colors = [
@@ -95,9 +102,9 @@ let degrees = (startAngle * 180) / Math.PI + 90;
 let arcd = (arc * 180) / Math.PI;
 let index = Math.floor((360 - (degrees % 360)) / arcd);
 let lastIndex = index;
-let outsideRadius = 160
-let textRadius = 125
-let insideRadius = 100
+let outsideRadius = 160;
+let textRadius = 125;
+let insideRadius = 100;
 function drawRouletteWheel() {
   canvas = document.getElementById("roulette");
   canvas.width = window.innerWidth;
