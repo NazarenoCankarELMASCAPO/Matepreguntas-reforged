@@ -8,12 +8,12 @@ let oliverImg = new Image();
 oliverImg.src = "./img/mainBackground/oliver.jpg";
 
 let olivers = [];
-for (i = 0; i <= 15; i++) {
+for (i = 0; i <= 5; i++) {
   let oliver = new Entity(
     getRandomInteger(200, canvas.width - 200),
     getRandomInteger(200, canvas.height - 200),
-    100,
-    100,
+    50,
+    50,
     oliverImg
   );
 

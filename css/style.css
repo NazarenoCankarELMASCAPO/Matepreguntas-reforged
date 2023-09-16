@@ -36,12 +36,6 @@ body {
   z-index: -2;
 }
 
-@media (max-width: 534px) {
-  .background-canvas {
-    display: none;
-  }
-}
-
 @keyframes zoom {
   0% {
     transform: scale(1);
