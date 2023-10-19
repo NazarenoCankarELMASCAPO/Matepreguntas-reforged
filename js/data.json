@@ -18,6 +18,176 @@
       ]
     },
     {
+      "question": "\u00bfCual es el resultado de: 90 \u00b7 3?",
+      "options": [
+        {
+          "content": "270",
+          "isCorrect": true
+        },
+        {
+          "content": "180",
+          "isCorrect": false
+        },
+        {
+          "content": "360",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 36 \u00b7 3?",
+      "options": [
+        {
+          "content": "116",
+          "isCorrect": false
+        },
+        {
+          "content": "108",
+          "isCorrect": true
+        },
+        {
+          "content": "96",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 13 \u00b7 3?",
+      "options": [
+        {
+          "content": "63",
+          "isCorrect": false
+        },
+        {
+          "content": "32",
+          "isCorrect": false
+        },
+        {
+          "content": "39",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 31 \u00b7 3?",
+      "options": [
+        {
+          "content": "93",
+          "isCorrect": true
+        },
+        {
+          "content": "6",
+          "isCorrect": false
+        },
+        {
+          "content": "3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 23 \u00b7 4?",
+      "options": [
+        {
+          "content": "94",
+          "isCorrect": true
+        },
+        {
+          "content": "96",
+          "isCorrect": false
+        },
+        {
+          "content": "92",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 30 \u00b7 12?",
+      "options": [
+        {
+          "content": "380",
+          "isCorrect": false
+        },
+        {
+          "content": "480",
+          "isCorrect": false
+        },
+        {
+          "content": "360",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 75 \u00b7 5?",
+      "options": [
+        {
+          "content": "295",
+          "isCorrect": false
+        },
+        {
+          "content": "375",
+          "isCorrect": true
+        },
+        {
+          "content": "325",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 31 \u00b7 5?",
+      "options": [
+        {
+          "content": "135",
+          "isCorrect": false
+        },
+        {
+          "content": "145",
+          "isCorrect": false
+        },
+        {
+          "content": "155",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 36 \u00b7 8?",
+      "options": [
+        {
+          "content": "248",
+          "isCorrect": false
+        },
+        {
+          "content": "288",
+          "isCorrect": true
+        },
+        {
+          "content": "324",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 23 \u00b7 7?",
+      "options": [
+        {
+          "content": "123",
+          "isCorrect": false
+        },
+        {
+          "content": "156",
+          "isCorrect": false
+        },
+        {
+          "content": "161",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
       "question": "\u00bfCual es el resultado de: 10 \u00b7 30?",
       "options": [
         {
@@ -166,6 +336,176 @@
         },
         {
           "content": "6000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 11 · 11?",
+      "options": [
+        {
+          "content": "85",
+          "isCorrect": false
+        },
+        {
+          "content": "121",
+          "isCorrect": true
+        },
+        {
+          "content": "110",
+          "isCorrect": false
+        }
+      ]
+    }, 
+    {
+      "question": "\u00bfCual es el resultado de: 4 · 5 · 2?",
+      "options": [
+        {
+          "content": "80",
+          "isCorrect": false
+        },
+        {
+          "content": "40",
+          "isCorrect": true
+        },
+        {
+          "content": "20",
+          "isCorrect": false
+        }
+      ]
+    }, 
+    {
+      "question": "\u00bfCual es el resultado de: 3 · 5 · 2?",
+      "options": [
+        {
+          "content": "70",
+          "isCorrect": false
+        },  
+        {
+          "content": "30",
+          "isCorrect": true
+        },
+        {
+          "content": "10",
+          "isCorrect": false
+        }
+      ]
+    }, 
+    {
+      "question": "\u00bfCual es el resultado de: 9 · 7?",
+      "options": [
+        {
+          "content": "63",
+          "isCorrect": true
+        },
+        {
+          "content": "97",
+          "isCorrect": false
+        },
+        {
+          "content": "36",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Si compras 2 camisetas a $15 cada una,\u00bfcuanto gastaras en total?",
+      "options": [
+        {
+          "content": "80",
+          "isCorrect": false
+        },
+        {
+          "content": "30",
+          "isCorrect": true
+        },
+        {
+          "content": "60",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de 75 · 2?",
+      "options": [
+        {
+          "content": "150",
+          "isCorrect": true
+        },
+        {
+          "content": "0",
+          "isCorrect": false
+        },
+        {
+          "content": "75",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de 70 · 7?",
+      "options": [
+        {
+          "content": "490",
+          "isCorrect": true
+        },
+        {
+          "content": "560",
+          "isCorrect": false
+        },
+        {
+          "content": "140",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es resultado de 10 · 8?",
+      "options": [
+        {
+          "content": "81",
+          "isCorrect": false
+        },
+        {
+          "content": "88",
+          "isCorrect": false
+        },
+        {
+          "content": "88",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de 30 · 5?",
+      "options": [
+        {
+          "content": "190",
+          "isCorrect": false
+        },
+        {
+          "content": "150",
+          "isCorrect": true
+        },
+        {
+          "content": "es imposible de hacer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de 1000 · 4?",
+      "options": [
+        {
+          "content": "4000",
+          "isCorrect": true
+        },
+        {
+          "content": "1004",
+          "isCorrect": false
+        },
+        {
+          "content": "1400",
           "isCorrect": false
         }
       ]
@@ -341,6 +681,346 @@
           "isCorrect": true
         }
       ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 56 : 8?",
+      "options": [
+        {
+          "content": "6",
+          "isCorrect": false
+        },
+        {
+          "content": "5",
+          "isCorrect": false
+        },
+        {
+          "content": "7",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 240 : 8?",
+      "options": [
+        {
+          "content": "10",
+          "isCorrect": false
+        },
+        {
+          "content": "18",
+          "isCorrect": false
+        },
+        {
+          "content": "30",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 560 : 80?",
+      "options": [
+        {
+          "content": "6",
+          "isCorrect": false
+        },
+        {
+          "content": "5",
+          "isCorrect": false
+        },
+        {
+          "content": "7",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 5 : 5?",
+      "options": [
+        {
+          "content": "2",
+          "isCorrect": false
+        },
+        {
+          "content": "3",
+          "isCorrect": false
+        },
+        {
+          "content": "1",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 32 : 8?",
+      "options": [
+        {
+          "content": "6",
+          "isCorrect": false
+        },
+        {
+          "content": "5",
+          "isCorrect": false
+        },
+        {
+          "content": "4",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 320 : 80?",
+      "options": [
+        {
+          "content": "60",
+          "isCorrect": false
+        },
+        {
+          "content": "40",
+          "isCorrect": true
+        },
+        {
+          "content": "70",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 480 : 48?",
+      "options": [
+        {
+          "content": "100",
+          "isCorrect": false
+        },
+        {
+          "content": "1",
+          "isCorrect": false
+        },
+        {
+          "content": "10",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 360 : 60?",
+      "options": [
+        {
+          "content": "6",
+          "isCorrect": true
+        },
+        {
+          "content": "5",
+          "isCorrect": false
+        },
+        {
+          "content": "3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 30 : 15?",
+      "options": [
+        {
+          "content": "1",
+          "isCorrect": false
+        },
+        {
+          "content": "2",
+          "isCorrect": true
+        },
+        {
+          "content": "3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 20 : 10?",
+      "options": [
+        {
+          "content": "3",
+          "isCorrect": false
+        },
+        {
+          "content": "1",
+          "isCorrect": false
+        },
+        {
+          "content": "2",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 2500 : 5?",
+      "options": [
+        {
+          "content": "600",
+          "isCorrect": false
+        },
+        {
+          "content": "455",
+          "isCorrect": false
+        },
+        {
+          "content": "500",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 32 : 4?",
+      "options": [
+        {
+          "content": "6",
+          "isCorrect": false
+        },
+        {
+          "content": "8",
+          "isCorrect": true
+        },
+        {
+          "content": "9",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de 36 : 2?",
+      "options": [
+        {
+          "content": "18",
+          "isCorrect": true
+        },
+        {
+          "content": "6",
+          "isCorrect": false
+        },
+        {
+          "content": "3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es resultado de 7 : 7?",
+      "options": [
+        {
+          "content": "14",
+          "isCorrect": false
+        },
+        {
+          "content": "7",
+          "isCorrect": false
+        },
+        {
+          "content": "1",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es resultado de 16 : 8?",
+      "options": [
+        {
+          "content": "2",
+          "isCorrect": true
+        },
+        {
+          "content": "1",
+          "isCorrect": false
+        },
+        {
+          "content": "6",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de 45 : 5?",
+      "options": [
+        {
+          "content": "30",
+          "isCorrect": false
+        },
+        {
+          "content": "9",
+          "isCorrect": true
+        },
+        {
+          "content": "8",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de 1000 : 4?",
+      "options": [
+        {
+          "content": "25",
+          "isCorrect": false
+        },
+        {
+          "content": "250",
+          "isCorrect": true
+        },
+        {
+          "content": "2500",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de 75 : 5?",
+      "options": [
+        {
+          "content": "5",
+          "isCorrect": false
+        },
+        {
+          "content": "75",
+          "isCorrect": false
+        },
+        {
+          "content": "15",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de 55 : 10?",
+      "options": [
+        {
+          "content": "5,5",
+          "isCorrect": true
+        },
+        {
+          "content": "5",
+          "isCorrect": false
+        },
+        {
+          "content": "50",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de 70 : 7?",
+      "options": [
+        {
+          "content": "10",
+          "isCorrect": true
+        },
+        {
+          "content": "15",
+          "isCorrect": false
+        },
+        {
+          "content": "7",
+          "isCorrect": true
+        }
+      ]
     }
   ],
   "radicacion": [
@@ -457,6 +1137,295 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "question": "\u00bfCual es la raiz cuadrada de 25?",
+      "options": [
+        {
+          "content": "5",
+          "isCorrect": true
+        },
+        {
+          "content": "12.5",
+          "isCorrect": false
+        },
+        {
+          "content": "15",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz cuadrada de 64?",
+      "options": [
+        {
+          "content": "8",
+          "isCorrect": true
+        },
+        {
+          "content": "4.5",
+          "isCorrect": false
+        },
+        {
+          "content": "2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz cuadrada de 81?",
+      "options": [
+        {
+          "content": "8",
+          "isCorrect": true
+        },
+        {
+          "content": "15",
+          "isCorrect": false
+        },
+        {
+          "content": "9",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz cuadrada de 100?",
+      "options": [
+        {
+          "content": "10",
+          "isCorrect": true
+        },
+        {
+          "content": "12",
+          "isCorrect": false
+        },
+        {
+          "content": "5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz cuadrada de 121?",
+      "options": [
+        {
+          "content": "11",
+          "isCorrect": true
+        },
+        {
+          "content": "12.5",
+          "isCorrect": false
+        },
+        {
+          "content": "10",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz cuadrada de 144?",
+      "options": [
+        {
+          "content": "12",
+          "isCorrect": true
+        },
+        {
+          "content": "12.5",
+          "isCorrect": false
+        },
+        {
+          "content": "13",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz cubica de 216?",
+      "options": [
+        {
+          "content": "4",
+          "isCorrect": false
+        },
+        {
+          "content": "6",
+          "isCorrect": true
+        },
+        {
+          "content": "3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz cubica de 512?",
+      "options": [
+        {
+          "content": "8",
+          "isCorrect": true
+        },
+        {
+          "content": "12.5",
+          "isCorrect": false
+        },
+        {
+          "content": "4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz cubica de 1000?",
+      "options": [
+        {
+          "content": "5",
+          "isCorrect": false  
+        },
+        {
+          "content": "10",
+          "isCorrect": true
+        },
+        {
+          "content": "15",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz cuarta de 256?",
+      "options": [
+        {
+          "content": "4",
+          "isCorrect": true
+        },
+        {
+          "content": "16",
+          "isCorrect": false
+        },
+        {
+          "content": "64",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz cubiica de 1000?",
+      "options": [
+        {
+          "content": "10",
+          "isCorrect": true
+        },
+        {
+          "content": "50",
+          "isCorrect": false
+        },
+        {
+          "content": "100",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz cuadrada de 625?",
+      "options": [
+        {
+          "content": "25",
+          "isCorrect": true
+        },
+        {
+          "content": "50",
+          "isCorrect": false
+        },
+        {
+          "content": "100",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz cubica de 64?",
+      "options": [
+        {
+          "content": "16",
+          "isCorrect": false
+        },
+        {
+          "content": "5",
+          "isCorrect": false
+        },
+        {
+          "content": "4",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz cuarta de 81?",
+      "options": [
+        {
+          "content": "9",
+          "isCorrect": false
+        },
+        {
+          "content": "3",
+          "isCorrect": true
+        },
+        {
+          "content": "8",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz octava de 1?",
+      "options": [
+        {
+          "content": "1",
+          "isCorrect": true
+        },
+        {
+          "content": "0",
+          "isCorrect": false
+        },
+        {
+          "content": "500",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz cuadrada de 0?",
+      "options": [
+        {
+          "content": "16",
+          "isCorrect": false
+        },
+        {
+          "content": "0",
+          "isCorrect": true
+        },
+        {
+          "content": "72",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es la raiz cubica de 125?",
+      "options": [
+        {
+          "content": "5",
+          "isCorrect": true
+        },
+        {
+          "content": "50",
+          "isCorrect": false
+        },
+        {
+          "content": "8",
+          "isCorrect": false
+        }
+      ]
     }
   ],
   "potenciacion": [
@@ -473,6 +1442,219 @@
         },
         {
           "content": "10000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado de: 3 ^ 4?",
+      "options": [
+        {
+          "content": "90",
+          "isCorrect": false
+        },
+        {
+          "content": "81",
+          "isCorrect": true
+        },
+        {
+          "content": "72",
+          "isCorrect": false
+        }
+      ]
+    },    {
+      "question": "\u00bfCual es el resultado de: 4 ^ 3?",
+      "options": [
+        {
+          "content": "64",
+          "isCorrect": true
+        },
+        {
+          "content": "36",
+          "isCorrect": false
+        },
+        {
+          "content": "56",
+          "isCorrect": false
+        }
+      ]
+    },    {
+      "question": "\u00bfCual es el resultado de: 4 ^ 4?",
+      "options": [
+        {
+          "content": "256",
+          "isCorrect": true
+        },
+        {
+          "content": "512",
+          "isCorrect": false
+        },
+        {
+          "content": "1024",
+          "isCorrect": false
+        }
+      ]
+    },    {
+      "question": "\u00bfCual es el resultado de: 5 ^ 4?",
+      "options": [
+        {
+          "content": "615",
+          "isCorrect": false
+        },
+        {
+          "content": "235",
+          "isCorrect": true
+        },
+        {
+          "content": "625",
+          "isCorrect": false
+        }
+      ]
+    },    {
+      "question": "\u00bfCual es el resultado de: 4 ^ 5?",
+      "options": [
+        {
+          "content": "1024",
+          "isCorrect": true
+        },
+        {
+          "content": "512",
+          "isCorrect": true
+        },
+        {
+          "content": "2500",
+          "isCorrect": false
+        }
+      ]
+    },    {
+      "question": "\u00bfCual es el resultado de: 6 ^ 3?",
+      "options": [
+        {
+          "content": "512",
+          "isCorrect": false
+        },
+        {
+          "content": "216",
+          "isCorrect": true
+        },
+        {
+          "content": "416",
+          "isCorrect": false
+        }
+      ]
+    },    {
+      "question": "\u00bfCual es el resultado de: 8 ^ 3?",
+      "options": [
+        {
+          "content": "360",
+          "isCorrect": false
+        },
+        {
+          "content": "480",
+          "isCorrect": false
+        },
+        {
+          "content": "512",
+          "isCorrect": true
+        }
+      ]
+    },    {
+      "question": "\u00bfCual es el resultado de: 11 ^ 2?",
+      "options": [
+        {
+          "content": "121",
+          "isCorrect": true
+        },
+        {
+          "content": "144",
+          "isCorrect": false
+        },
+        {
+          "content": "161",
+          "isCorrect": false
+        }
+      ]
+    },    {
+      "question": "\u00bfCual es el resultado de: 12 ^ 2?",
+      "options": [
+        {
+          "content": "144",
+          "isCorrect": true
+        },
+        {
+          "content": "148",
+          "isCorrect": false
+        },
+        {
+          "content": "Ninguna de las anteriores",
+          "isCorrect": false
+        },
+        {
+          "content": "412",
+          "isCorrect": false
+        }
+      ]
+    },    {
+      "question": "\u00bfCual es el resultado de: 2 ^ 9?",
+      "options": [
+        {
+          "content": "512",
+          "isCorrect": true
+        },
+        {
+          "content": "480",
+          "isCorrect": false
+        },
+        {
+          "content": "128",
+          "isCorrect": false
+        }
+      ]
+    },    {
+      "question": "\u00bfCual es el resultado de: 2 ^ 10?",
+      "options": [
+        {
+          "content": "1024",
+          "isCorrect": true
+        },
+        {
+          "content": "2048",
+          "isCorrect": false
+        },
+        {
+          "content": "4096",
+          "isCorrect": false
+        }
+      ]
+    },    {
+      "question": "\u00bfCual es el resultado de: 2 ^ 12?",
+      "options": [
+        {
+          "content": "1048",
+          "isCorrect": false
+        },
+        {
+          "content": "2048",
+          "isCorrect": false
+        },
+        {
+          "content": "4096",
+          "isCorrect": true
+        }
+      ]
+    },    {
+      "question": "\u00bfCual es el resultado de: 2 ^ 6?",
+      "options": [
+        {
+          "content": "64",
+          "isCorrect": false
+        },
+        {
+          "content": "21",
+          "isCorrect": true
+        },
+        {
+          "content": "53",
           "isCorrect": false
         }
       ]
@@ -503,11 +1685,11 @@
       ]
     },
     {
-      "question": "\u00bfcual es el resultado de: 2 ^ 5?",
+      "question": "\u00bfcual es el resultado de: 6 ^ 2?",
 
       "options": [
         {
-          "content": "32",
+          "content": "36",
           "isCorrect": true
         },
         {
@@ -515,36 +1697,126 @@
           "isCorrect": false
         },
         {
-          "content": "10",
+          "content": "64",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfcual es el resultado de: 2 ^ 6?",
+
+      "options": [
+        {
+          "content": "36",
+          "isCorrect": false
+        },
+        {
+          "content": "21",
+          "isCorrect": false
+        },
+        {
+          "content": "64",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfcual es el resultado de: 36 ^ 0?",
+
+      "options": [
+        {
+          "content": "36",
+          "isCorrect": false
+        },
+        {
+          "content": "20",
+          "isCorrect": false
+        },
+        {
+          "content": "0",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfcual es el resultado de: 550 ^ 1?",
+
+      "options": [
+        {
+          "content": "1100",
+          "isCorrect": false
+        },
+        {
+          "content": "50050",
+          "isCorrect": false
+        },
+        {
+          "content": "550",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfcual es el resultado de: 25 ^ 2?",
+
+      "options": [
+        {
+          "content": "625",
+          "isCorrect": true
+        },
+        {
+          "content": "25",
+          "isCorrect": false
+        },
+        {
+          "content": "500",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfcual es el resultado de: 4 ^ 4?",
+
+      "options": [
+        {
+          "content": "16",
+          "isCorrect": false
+        },
+        {
+          "content": "256",
+          "isCorrect": true
+        },
+        {
+          "content": "1000",
           "isCorrect": false
         }
       ]
     }
   ],
-  "simela": [
+  "ecuaciones": [
     {
-      "question": "\u00bfA cuantos metros equivale un kilometro?",
+      "question": "\u00bfCual es el resulatado de la siguiente ecuacion: 4( x + 1 ) = 20?",
       "options": [
         {
-          "content": "100",
+          "content": "15",
           "isCorrect": false
         },
         {
-          "content": "1000",
+          "content": "4",
           "isCorrect": true
         },
         {
-          "content": "10000",
+          "content": "9",
           "isCorrect": false
         }
       ]
     },
     {
-      "question": "\u00bfCuantos decametros hay en un metro?",
+      "question": "\u00bfCual es el resultado de 6x - 9 = 3( x + 2 )?",
 
       "options": [
         {
-          "content": "0,1",
+          "content": "5",
           "isCorrect": true
         },
         {
@@ -552,25 +1824,229 @@
           "isCorrect": false
         },
         {
-          "content": "600",
+          "content": "15",
           "isCorrect": false
         }
       ]
     },
     {
-      "question": "\u00bfQue significa SIMELA?",
+      "question": "\u00bfQue significa la x en una ecuacion?",
       "options": [
         {
-          "content": "Sistema de marcado Argentino",
+          "content": "Multiplicacion",
           "isCorrect": false
         },
         {
-          "content": "Simbolos metricos legales argentinos",
+          "content": "Nada",
           "isCorrect": false
         },
         {
-          "content": "Sistema metrico legal argentino",
+          "content": "Una incognita",
           "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCuanto vale x en la siguiente ecuacion: X + 3 = 6?",
+      "options": [
+        {
+          "content": "2",
+          "isCorrect": false
+        },
+        {
+          "content": "3",
+          "isCorrect": true
+        },
+        {
+          "content": "2,5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCuanto vale x en la siguiente ecuacion: X + 2 = 6?",
+      "options": [
+        {
+          "content": "5",
+          "isCorrect": false
+        },
+        {
+          "content": "25",
+          "isCorrect": false
+        },
+        {
+          "content": "4",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCuanto vale x en la siguiente ecuacion: 70 * x = 140?",
+      "options": [
+        {
+          "content": "2",
+          "isCorrect": true
+        },
+        {
+          "content": "70",
+          "isCorrect": false
+        },
+        {
+          "content": "10",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCuanto vale x en la siguiente ecuacion: (4 + 10) x = 140?",
+      "options": [
+        {
+          "content": "4",
+          "isCorrect": false
+        },
+        {
+          "content": "10",
+          "isCorrect": true
+        },
+        {
+          "content": "100",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCuanto vale x en la siguiente ecuacion: 7 + x = 18?",
+      "options": [
+        {
+          "content": "19",
+          "isCorrect": false
+        },
+        {
+          "content": "13",
+          "isCorrect": false
+        },
+        {
+          "content": "11",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCuanto vale x en la siguiente ecuacion: 2 + x = 2?",
+      "options": [
+        {
+          "content": "0",
+          "isCorrect": true
+        },
+        {
+          "content": "no se puede realizar",
+          "isCorrect": false
+        },
+        {
+          "content": "2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCuanto vale x en la siguiente ecuacion: x - 7 = 10?",
+      "options": [
+        {
+          "content": "10",
+          "isCorrect": false
+        },
+        {
+          "content": "17",
+          "isCorrect": true
+        },
+        {
+          "content": "13",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCuanto vale x en la siguiente ecuacion: x + 17 = 52?",
+      "options": [
+        {
+          "content": "45",
+          "isCorrect": false
+        },
+        {
+          "content": "70",
+          "isCorrect": false
+        },
+        {
+          "content": "35",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCuanto vale x en la siguiente ecuacion: x - 60 = 10?",
+      "options": [
+        {
+          "content": "70",
+          "isCorrect": true
+        },
+        {
+          "content": "7",
+          "isCorrect": false
+        },
+        {
+          "content": "700",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCuanto vale x en la siguiente ecuacion: x * 570 = 0?",
+      "options": [
+        {
+          "content": "10",
+          "isCorrect": false
+        },
+        {
+          "content": "1",
+          "isCorrect": false
+        },
+        {
+          "content": "0",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCuanto vale x en la siguiente ecuacion: x : 3 = 10?",
+      "options": [
+        {
+          "content": "10",
+          "isCorrect": false
+        },
+        {
+          "content": "30",
+          "isCorrect": true
+        },
+        {
+          "content": "15",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCuanto vale x en la siguiente ecuacion: x + 0 = 10?",
+      "options": [
+        {
+          "content": "10",
+          "isCorrect": true
+        },
+        {
+          "content": "7",
+          "isCorrect": false
+        },
+        {
+          "content": "13",
+          "isCorrect": false
         }
       ]
     }
@@ -713,7 +2189,106 @@
           "isCorrect": true
         }
       ]
-    }
+    },
+    {
+      "question": "\u00bfCual de las siguientes es una figura plana de 5 lados?",
+
+      "options": [
+        {
+          "content": "Hexaedro",
+          "isCorrect": false
+        },
+        {
+          "content": "Pentagono",
+          "isCorrect": true
+        },
+        {
+          "content": "Obtusaedro",
+          "isCorrect": false
+        },
+        {
+          "content": "Hexagono",
+          "isCorrect": false
+        },
+        {
+          "content": "Pentagrama",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual de las siguientes afirmaciones es cierta sobre un triangulo equilatero?",
+
+      "options": [
+        {
+          "content": "Tiene tres angulos rectos.",
+          "isCorrect": false
+        },
+        {
+          "content": "Tiene dos angulos obtusos",
+          "isCorrect": false
+        },
+        {
+          "content": "Tiene por lo menos 2 lados iguales",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual de las siguientes figuras es tridimensional?",
+
+      "options": [
+        {
+          "content": "Circulo",
+          "isCorrect": false
+        },
+        {
+          "content": "Dodecaedro",
+          "isCorrect": true
+        },
+        {
+          "content": "Heptacontagono",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual de las siguientes afirmaciones es cierta sobre un cuadrado?",
+
+      "options": [
+        {
+          "content": "Tiene 3 lados",
+          "isCorrect": false
+        },
+        {
+          "content": "Tiene por lo menos 4 lados iguales",
+          "isCorrect": true
+        },
+        {
+          "content": "Es un recta perpendicular al segmento que traza su punto medio",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el nombre de una figura con ocho lados?",
+
+      "options": [
+        {
+          "content": "Cuadrado",
+          "isCorrect": false
+        },
+        {
+          "content": "Hexaedro",
+          "isCorrect": false
+        },
+        {
+          "content": "Octogono",
+          "isCorrect": true
+        }
+      ]
+    }  
+
   ],
   "calculos": [
     {
@@ -734,6 +2309,227 @@
       ]
     },
     {
+      "question": "\u00bfCual es el resultado del siguiente calculo combinado: (5 - 2) · 3?",
+      "options": [
+        {
+          "content": "9",
+          "isCorrect": true
+        },
+        {
+          "content": "8",
+          "isCorrect": false
+        },
+        {
+          "content": "7",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado del siguiente calculo combinado: 10 : 2 + 7?",
+      "options": [
+        {
+          "content": "14",
+          "isCorrect": false
+        },
+        {
+          "content": "12",
+          "isCorrect": true
+        },
+        {
+          "content": "8",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado del siguiente calculo combinado: 8 · 2 - 5?",
+      "options": [
+        {
+          "content": "11",
+          "isCorrect": true
+        },
+        {
+          "content": "20",
+          "isCorrect": false
+        },
+        {
+          "content": "10",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado del siguiente calculo combinado: 6 + 4 · 2?",
+      "options": [
+        {
+          "content": "11",
+          "isCorrect": false
+        },
+        {
+          "content": "20",
+          "isCorrect": false
+        },
+        {
+          "content": "14",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado del siguiente calculo combinado: 15 : 3 + 2 ?",
+      "options": [
+        {
+          "content": "5",
+          "isCorrect": false
+        },
+        {
+          "content": "7",
+          "isCorrect": true
+        },
+        {
+          "content": "6",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado del siguiente calculo combinado: 9 - 2 · 2?",
+      "options": [
+        {
+          "content": "6",
+          "isCorrect": false
+        },
+        {
+          "content": "5",
+          "isCorrect": true
+        },
+        {
+          "content": "4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado del siguiente calculo combinado: (8 + 2) : 2?",
+      "options": [
+        {
+          "content": "4",
+          "isCorrect": false
+        },
+        {
+          "content": "7",
+          "isCorrect": false
+        },
+        {
+          "content": "5",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado del siguiente calculo combinado: 4 · 3 + 7?",
+      "options": [
+        {
+          "content": "21",
+          "isCorrect": false
+        },
+        {
+          "content": "22",
+          "isCorrect": false
+        },
+        {
+          "content": "19",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado del siguiente calculo combinado: 20 : 4 - 3?",
+      "options": [
+        {
+          "content": "3",
+          "isCorrect": false
+        },
+        {
+          "content": "2",
+          "isCorrect": true
+        },
+        {
+          "content": "4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado del siguiente calculo combinado: 5 + 6 : 2 ?",
+      "options": [
+        {
+          "content": "7",
+          "isCorrect": false
+        },
+        {
+          "content": "5",
+          "isCorrect": false
+        },
+        {
+          "content": "8",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado del siguiente calculo combinado: 7 - 3 + 4 · 2?",
+      "options": [
+        {
+          "content": "12",
+          "isCorrect": true
+        },
+        {
+          "content": "16",
+          "isCorrect": false
+        },
+        {
+          "content": "8",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado del siguiente calculo combinado: (9 + 1) · 2 - 5?",
+      "options": [
+        {
+          "content": "13",
+          "isCorrect": false
+        },
+        {
+          "content": "15",
+          "isCorrect": true
+        },
+        {
+          "content": "14",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es el resultado del siguiente calculo combinado: 14 : 2 + 3 · 2?",
+      "options": [
+        {
+          "content": "16",
+          "isCorrect": false
+        },
+        {
+          "content": "15",
+          "isCorrect": false
+        },
+        {
+          "content": "14",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
       "question": "\u00bfQue operaciones son las que separan terminos?",
       "options": [
         {
@@ -750,6 +2546,108 @@
         },
         {
           "content": "Suma y multiplicacion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es resultado de 36 : (6 * 6) + 2?",
+      "options": [
+        {
+          "content": "3",
+          "isCorrect": true
+        },
+        {
+          "content": "8",
+          "isCorrect": false
+        },
+        {
+          "content": "33",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es resultado de 50 + 2 * 5 - 30?",
+      "options": [
+        {
+          "content": "10",
+          "isCorrect": false
+        },
+        {
+          "content": "30",
+          "isCorrect": true
+        },
+        {
+          "content": "230",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es resultado de 45 * 2 + (20 + 30)?",
+      "options": [
+        {
+          "content": "140",
+          "isCorrect": true
+        },
+        {
+          "content": "7",
+          "isCorrect": false
+        },
+        {
+          "content": "13",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCuanl es el resultado de 35 - 35 * (500 + 40 * 2)?",
+      "options": [
+        {
+          "content": "1080",
+          "isCorrect": false
+        },
+        {
+          "content": "1115",
+          "isCorrect": false
+        },
+        {
+          "content": "0",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es resultado de (50 * 25 - 2 : 2 + 57) * 0?",
+      "options": [
+        {
+          "content": "2",
+          "isCorrect": false
+        },
+        {
+          "content": "758",
+          "isCorrect": false
+        },
+        {
+          "content": "0",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "\u00bfCual es resultado de 2 * 5 - 3 * 2 + (300 - 200) * 10?",
+      "options": [
+        {
+          "content": "1004",
+          "isCorrect": true
+        },
+        {
+          "content": "4",
+          "isCorrect": false
+        },
+        {
+          "content": "1000",
           "isCorrect": false
         }
       ]
