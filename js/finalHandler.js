@@ -34,9 +34,11 @@ document.getElementById("reveal").addEventListener("click", () => {
       emojis: ["🎉", "🎆", "🎈", "✨", "🎊", "🎄", "🎁"],
       emojiSize: 50,
     });
-
+    console.log(winSound.duration * 1000 + 500)
     setTimeout(
-      () => window.location.replace("/Matepreguntas-reforged"),
+      () => {
+        window.location.replace("/Matepreguntas-reforged")
+      },
       winSound.duration * 1000 + 500
     );
   } else {
@@ -46,8 +48,12 @@ document.getElementById("reveal").addEventListener("click", () => {
       emojis: ["😭", "😢", "😟", "😞"],
       emojiSize: 50,
     });
+    console.log(loseSound.duration * 1000 + 500)
+
     setTimeout(
-      () => window.location.replace("/Matepreguntas-reforged"),
+      () => {
+        window.location.replace("/Matepreguntas-reforged")
+      },
       loseSound.duration * 1000 + 500
     );
   }
