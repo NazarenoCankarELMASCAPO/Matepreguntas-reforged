@@ -15,7 +15,7 @@ if (
   window.location.replace("/Matepreguntas-reforged");
 }
 
-parseInt(localStorage["score"]) > parseInt(localStorage["minScore"])
+parseInt(localStorage["score"]) >= parseInt(localStorage["minScore"])
   ? (document.getElementById("img").src = "./img/win.jpg")
   : (document.getElementById("img").src = "./img/lose.jpg");
 
